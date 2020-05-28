@@ -4,3 +4,7 @@
 Befehle
 Befehle
 Befehle
+
+Ich bin gerade auf dem Branch "NewBranch" und fuehre Aenderungen
+in der Main-Datei durch. Das gleiche habe ich dann auch noch mit
+dem master-Branch vor.
