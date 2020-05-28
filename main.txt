@@ -8,3 +8,4 @@ Befehle
 Ich bin gerade auf dem Master-Branch. Ich führe gerade Aenderungen
 an der selben Stelle durch, bei der ich auf dem anderen Branch ge-
 arbeitet habe. Dies wird sicher zu einem Konflikt führen.
+
